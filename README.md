@@ -1,9 +1,7 @@
 # 💫 Hi 👋, I'm Abhi Sarkar
 **A passionate Frontend Developer || Ms. Excel Spacialist**
 
-Email Me 👉 ✉️ **abhisarkar6038@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+Email Me 👉 ✉️ **abhisarkar6038@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 
 - 🌱 **I’m currently learning:** SQL & Database
