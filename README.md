@@ -1,6 +1,6 @@
 You said:
 # 💫 Hi 👋, I'm Abhi Sarkar
-**A passionate Frontend Developer || Ms. Excel Spacialist**
+**A Passionate Data Analyst || Part-time Frontend Developer || Ms. Excel Spacialist**
 
 Email Me 👉 ✉️ **abhisarkar6038@gmail.com** For Collaboration/Project or Anything Else. 😊
 
