@@ -26,9 +26,9 @@ Email Me 👉 ✉️ **abhisarkar6038@gmail.com** For Collaboration/Project or A
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Techwithabhi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Techwithabhi&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techwithabhi&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Techwithabhi&theme=blue-green&hide_border=false&show_icons=true)<br/>
+![](https://streak-stats.demolab.com?user=Techwithabhi&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techwithabhi&theme=blue-green&hide_border=false&layout=compact)
 
 ## 🧠 Learning Roadmap
 - ✔ Python for Data Analysis
